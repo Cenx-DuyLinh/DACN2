@@ -13,6 +13,7 @@ Comunication-range: 100km
 Comunication-type: "?"
 Take off mechnism: VTOL, Catapult
 Price: "?"
+Service ceiling: 3600m
 ---
 # Other information
 ---
