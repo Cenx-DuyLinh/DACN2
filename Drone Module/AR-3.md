@@ -5,7 +5,9 @@ Engine-number: "2"
 Endurance: 20h
 MTOW: 180kg
 Payload: 50kg
+
 Cruise-speed: 80km/h
+
 Dimension: 4 x 7.3 x ?
 Configuration: Fixed Wing
 Fuel-type: Gas
