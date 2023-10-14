@@ -6,7 +6,7 @@ Endurance: 20h
 MTOW: 180kg
 Payload: 50kg
 Cruise-speed: 100km/h
-Dimension: 4 x 7.3 x ?
+Dimension: 4.0 x 7.3 x ?
 Configuration: Fixed Wing
 Fuel-type: Gas
 Comunication-range: Unlimited
