@@ -2,6 +2,7 @@
 project: drone survey
 Manufacturer: Tekever
 Engine-number: "2"
+Service ceiling: "?"
 Endurance: 20h
 MTOW: 180kg
 Payload: 50kg
@@ -19,6 +20,8 @@ Price: "?"
 >TEKEVER AR5 is the most advanced medium-altitude, medium-endurance fixed wing UAS in the market.
 ### Link to website
 ![](https://i.imgur.com/hifu4mr.png)
+![](https://i.imgur.com/j6gz01p.png)
+
 https://www.tekever.com/models/ar5/
 
 ### Technical data
