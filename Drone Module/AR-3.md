@@ -6,6 +6,7 @@ Endurance: 8-16 hours
 MTOW: 25kg
 Payload: 4kg
 Cruise-speed: 75-90km/h
+Service ceiling: 3600m
 Wingspan: 3.5
 Lenght: 1.9
 Configuration: VTOL Fixed Wing
@@ -13,9 +14,10 @@ Fuel-type: Gas
 Comunication-range: 100km
 Comunication-type: 
 Take off mechnism: VTOL, Catapult
+
 Price: 
 Service ceiling: 3600m
----
+
 # Other information
 ---
 >AR3 is our small, long endurance UAS designed to support a wide range of demanding land and maritime operations. The addition of VTOL capability increases its flexibility of deployment and reduces the logistics package. TEKEVER AR3 VTOL is also the smallest UAS in the market to feature a high-performance, dual side-looking SAR.
