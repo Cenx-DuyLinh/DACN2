@@ -6,7 +6,8 @@ Endurance: 8-16 hours
 MTOW: 25kg
 Payload: 4kg
 Cruise-speed: 75-90km/h
-Dimension: 1.9 x 3.5 x ?
+Wingspan: 3.5
+Lenght: 1.9
 Configuration: VTOL Fixed Wing
 Fuel-type: Gas
 Comunication-range: 100km

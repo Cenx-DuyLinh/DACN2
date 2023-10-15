@@ -1,18 +1,20 @@
 ---
 project: drone survey
 Manufacturer: Tekever
-Engine-number: "2"
-Endurance: 20h
-MTOW: 180kg
-Payload: 50kg
-Cruise-speed: 100km/h
-Dimension: 4.0 x 7.3 x ?
-Configuration: Fixed Wing
+Engine-number: "5"
+Endurance: 8-16 hours
+MTOW: 25kg
+Payload: 4kg
+Cruise-speed: 75-90km/h
+Wingspan: 3.5
+Lenght: 1.9
+Configuration: VTOL Fixed Wing
 Fuel-type: Gas
-Comunication-range: Unlimited
-Comunication-type: Satelite
-Take off mechnism: Runway, Catapult
+Comunication-range: 100km
+Comunication-type: "?"
+Take off mechnism: VTOL, Catapult
 Price: "?"
+Service ceiling: 3600m
 ---
 # Other information
 ---
