@@ -1,46 +1,44 @@
 ---
 project: drone survey
 Manufacturer: Tekever
-Engine-number: "5"
-Endurance: 8-16 hours
-MTOW: 25kg
-Payload: 4kg
-Cruise-speed: 75-90km/h
-Wingspan: 3.5
-Lenght: 1.9
-Configuration: VTOL Fixed Wing
+Engine-number: "1"
+Endurance: 2h
+MTOW: "?"
+Payload: 1kg
+Cruise-speed: 54km/h
+Wingspan: 2.1
+Lenght: 1.32
+Configuration: Fixed Wing
 Fuel-type: Gas
-Comunication-range: 100km
+Comunication-range: 20km
 Comunication-type: "?"
-Take off mechnism: VTOL, Catapult
+Take off mechnism: Hand launch
 Price: "?"
-Service ceiling: 3600m
+Service ceiling: "?"
 ---
 # Other information
 ---
->TEKEVER AR5 is the most advanced medium-altitude, medium-endurance fixed wing UAS in the market.
+>TEKEVER AR4 is our lightweight Unmanned Aircraft System (UAS) designed for rapid mobile deployment.
 ### Link to website
-![](https://i.imgur.com/hifu4mr.png)
-https://www.tekever.com/models/ar5/
+![](https://i.imgur.com/dI5Aj2Y.png)
 
-### Technical data
-- Advanced Onboard Processing
-- Simultaneous E0+IR, Radar and AIS
-- High capacity SATCOM
-- Designed for Maritime Missions
-- Wide Area Surveillance
-- Maritime Surveillance
-- Pollution Monitoring
-- Fisheries Inspection
-- Communications Relay
-- Sub-Tactical UAS ranging up to 180Kg MTOW
-- High speed BLOS satellite communications
-- High precision video, imagery and sensor data in real-time
-- Flexible architecture, supporting multiple types of payloads and datalinks
-- Highest production standards, prepared for certification
-- Twin Engine
-- Selected to create the first European-wide UAS-based Maritime Surveillance System
+![](https://i.imgur.com/HPfh4bN.png)
+
+https://www.tekever.com/models/ar4/
+### TECHNICAL  DATA
+
+- Lowest total cost ownership
 - ITAR Free
-- Fully managed LoS and BLoS datalink handover
-- Takeoff from short unpaved Airstrips
-- Automatic take-off and landing (ATOL)
+- Proven flexibility
+- 2 minute assembly
+- ISTAR Missions
+- Anti-terrorist Surveilance
+- Environmental Protection
+- Infrastructures Monitoring
+
+- Go anywhere! A focus on ease of use, transportability, maintainbility and payload flexability.
+- Validated and battle proven by multiple security and military forces
+- Real-time Precision Imagery (High-resolution Image and Video)
+- Powerful intelligent detection, identification and tracking capabilities
+- Easy exchange of parts from one system to another
+- Focus on system autonomy, flexibility and capability to evolve
