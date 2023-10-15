@@ -6,6 +6,7 @@ Endurance: 2h
 MTOW: "?"
 Payload: 1kg
 Cruise-speed: 54km/h
+Service ceiling: "?"
 Wingspan: 2.1
 Lenght: 1.32
 Configuration: Fixed Wing
@@ -14,7 +15,6 @@ Comunication-range: 20km
 Comunication-type: "?"
 Take off mechnism: Hand launch
 Price: "?"
-Service ceiling: "?"
 ---
 # Other information
 ---
