@@ -11,9 +11,9 @@ Lenght: 1.9
 Configuration: VTOL Fixed Wing
 Fuel-type: Gas
 Comunication-range: 100km
-Comunication-type: "?"
+Comunication-type: 
 Take off mechnism: VTOL, Catapult
-Price: "?"
+Price: 
 Service ceiling: 3600m
 ---
 # Other information

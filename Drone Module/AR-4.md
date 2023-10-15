@@ -3,7 +3,7 @@ project: drone survey
 Manufacturer: Tekever
 Engine-number: "1"
 Endurance: 2h
-MTOW: "?"
+MTOW: 
 Payload: 1kg
 Cruise-speed: 54km/h
 Wingspan: 2.1
@@ -11,10 +11,10 @@ Lenght: 1.32
 Configuration: Fixed Wing
 Fuel-type: Gas
 Comunication-range: 20km
-Comunication-type: "?"
+Comunication-type: 
 Take off mechnism: Hand launch
-Price: "?"
-Service ceiling: "?"
+Price: 
+Service ceiling:
 ---
 # Other information
 ---
