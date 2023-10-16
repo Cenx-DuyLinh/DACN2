@@ -2,11 +2,11 @@
 project: drone survey
 Manufacturer: PTERO DYNAMICS
 Engine-number: "4"
-Service-ceiling: "4500"
-Endurance: 1 hour
+Service-ceiling: 4500
+Endurance: 1
 MTOW: 38
-Payload: 7 Kg
-Cruise-speed: 111 - 185 Km/h
+Payload: 7
+Cruise-speed: 110
 Wingspan: 4
 Lenght: 
 Configuration: VTOL Trans Wing

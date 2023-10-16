@@ -2,16 +2,16 @@
 project: drone survey
 Manufacturer: EDGE Autonomy
 Engine-number: "5"
-Service ceiling: 4572m
-Endurance: 8h
+Service-ceiling: 4572
+Endurance: 8
 MTOW: 20
 Payload: 
-Cruise-speed: 55-93km/h
+Cruise-speed: 60
 Wingspan: 4.9
 Lenght: 
 Configuration: VTOL
 Fuel-type: Gas
-Comunication-range: 160km
+Comunication-range: 160
 Comunication-type: Silvus Dual S & C band standard
 Take off mechnism: VTOL
 Price:

@@ -2,16 +2,16 @@
 project: drone survey
 Manufacturer: UKRSPEC SYSTEMS
 Engine-number: "1"
-Service-ceiling: 3000 m
-Endurance: 3.5 hours
+Service-ceiling: 3000
+Endurance: 3.5
 MTOW: 12.5
 Payload: 
-Cruise-speed: 75 - 130 Km/h
+Cruise-speed: 130
 Wingspan: 3.4
 Lenght: 
 Configuration: Fixed Wing
 Fuel-type: Electric
-Comunication-range: 80 Km
+Comunication-range: 80
 Comunication-type: Radio
 Take off mechnism: VTOL
 Price:
@@ -34,3 +34,5 @@ SHARK UAS is perfect-suited for border control and hard-to-reach places inspecti
 * Short lead time
 * Low operationalcost
 * ITAR free & no export restrictions
+
+![[SHARK ENG (2).pdf]]

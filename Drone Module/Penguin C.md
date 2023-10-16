@@ -2,16 +2,16 @@
 project: drone survey
 Manufacturer: EDGE Autonomy
 Engine-number: "1"
-Service ceiling: 4000m
-Endurance: 25h
+Service-ceiling: 
+Endurance: 25
 MTOW: 25
 Payload: 
-Cruise-speed: 74-111.2km/h
+Cruise-speed: 100
 Wingspan: 3.3
 Lenght: 
 Configuration: Fixed Wing
 Fuel-type: Gas
-Comunication-range: 100km
+Comunication-range: 100
 Comunication-type: Silvus Dual S & C band standard
 Take off mechnism: Catapult
 Price:

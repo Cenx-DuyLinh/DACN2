@@ -2,21 +2,22 @@
 project: drone survey
 Manufacturer: Tekever
 Engine-number: "2"
-Endurance: 20h
-Service ceiling: 
+Endurance: 20
+Service-ceiling: 
 MTOW: 180
-Payload: 50kg
-Cruise-speed: 100km/h
+Payload: 50
+Cruise-speed: 100
 Wingspan: 7.3
 Lenght: 4
 Configuration: Fixed Wing
 Fuel-type: Gas
-Comunication-range: Unlimited
+Comunication-range: 
 Comunication-type: Radio
 Take off mechnism: Runway
 Price:
 ---
 # Other information
+
 ---
 >TEKEVER AR5 is the most advanced medium-altitude, medium-endurance fixed wing UAS in the market.
 ### Link to website

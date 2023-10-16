@@ -3,15 +3,15 @@ project: drone survey
 Manufacturer: ELEVONX
 Engine-number: "5"
 Service-ceiling: 
-Endurance: 3 - 5 hours
+Endurance: 5
 MTOW: 12.5
-Payload: 3 Kg
-Cruise-speed: 65 - 110 Km/h
+Payload: 3
+Cruise-speed: 100
 Wingspan: 3.1
 Lenght: 1.52
 Configuration: VTOL Fixed Wing
 Fuel-type: Hybrid
-Comunication-range: 20 Km
+Comunication-range: 20
 Comunication-type: Radio
 Take off mechnism: VTOL
 Price:
