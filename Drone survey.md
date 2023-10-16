@@ -18,3 +18,12 @@ manufacturer, MTOW as "MTOW[kg]"
 where project = "drone survey"
 sort mtow asc
 ```
+
+# Sorted by Wingspan 
+---
+```dataview 
+table 
+manufacturer, Wingspan as "Wingspan[m]"
+where project = "drone survey"
+sort wingspan asc
+```
