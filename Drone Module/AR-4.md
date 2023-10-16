@@ -6,19 +6,15 @@ Endurance: 2h
 MTOW: 
 Payload: 1kg
 Cruise-speed: 54km/h
-Service ceiling: "?"
+Service ceiling: 
 Wingspan: 2.1
 Lenght: 1.32
 Configuration: Fixed Wing
-Fuel-type: Gas
+Fuel-type: Electric
 Comunication-range: 20km
-Comunication-type: 
+Comunication-type: Radio & Sateline
 Take off mechnism: Hand launch
-
-Price: 
-Service ceiling:
-
-# Other information
+Price:
 ---
 >TEKEVER AR4 is our lightweight Unmanned Aircraft System (UAS) designed for rapid mobile deployment.
 ### Link to website

@@ -6,7 +6,7 @@ Service ceiling: 4000m
 Endurance: 12h
 MTOW: 32kg
 Payload: 4.5kg
-Cruise-speed: 55-km/h
+Cruise-speed: 55-93km/h
 Wingspan: 4.12
 Lenght: 
 Configuration: VTOL Fixed Wing

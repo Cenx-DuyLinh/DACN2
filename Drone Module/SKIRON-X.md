@@ -3,7 +3,7 @@ project: drone survey
 Manufacturer: Aurora
 Engine-number: "5"
 Service ceiling: "?"
-Endurance: 3h
+Endurance: ~2 hours
 MTOW: 22.2kg
 Payload: 1.45kg
 Cruise-speed: 68-94km/h
