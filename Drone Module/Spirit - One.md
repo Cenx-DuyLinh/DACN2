@@ -3,12 +3,12 @@ project: drone survey
 Manufacturer: GADFIN
 Engine-number: "5"
 Service-ceiling: 
-Endurance: 2.5 hours
+Endurance: 2.5
 MTOW: 
-Payload: "5"
-Cruise-speed: 100 Km/h
+Payload: 5
+Cruise-speed: 100
 Wingspan: 
-Lenght: 
+Lenght: -2
 Configuration: VTOL Foldable Wing
 Fuel-type: Electric
 Comunication-range: 

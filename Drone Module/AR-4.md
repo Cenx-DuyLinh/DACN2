@@ -2,16 +2,16 @@
 project: drone survey
 Manufacturer: Tekever
 Engine-number: "1"
-Endurance: 2h
+Endurance: 2
 MTOW: 
-Payload: 1kg
-Cruise-speed: 54km/h
+Payload: 1
+Cruise-speed: 54
 Service ceiling: 
 Wingspan: 2.1
 Lenght: 1.32
 Configuration: Fixed Wing
 Fuel-type: Electric
-Comunication-range: 20km
+Comunication-range: 20
 Comunication-type: Radio & Sateline
 Take off mechnism: Hand launch
 Price:

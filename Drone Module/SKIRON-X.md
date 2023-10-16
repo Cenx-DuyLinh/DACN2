@@ -2,11 +2,11 @@
 project: drone survey
 Manufacturer: Aurora
 Engine-number: "5"
-Service ceiling: "?"
-Endurance: ~2 hours
+Service-ceiling: 
+Endurance: 2
 MTOW: 22.2
-Payload: 1.45kg
-Cruise-speed: 68-94km/h
+Payload: 1.45
+Cruise-speed: 90
 Wingspan: 5
 Lenght: 2.2
 Configuration: VTOL

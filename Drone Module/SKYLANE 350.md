@@ -2,11 +2,11 @@
 project: drone survey
 Manufacturer: SKY-DRONES
 Engine-number: "5"
-Service-ceiling: 3000 m
-Endurance: 5 - 6 hours
+Service-ceiling: 3000
+Endurance: 6
 MTOW: 35
-Payload: "7"
-Cruise-speed: 100 Km/h
+Payload: 7
+Cruise-speed: 100
 Wingspan: 3.5
 Lenght: 1.88
 Configuration: VTOL Fixed Wing

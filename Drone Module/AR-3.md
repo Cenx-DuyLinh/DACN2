@@ -2,16 +2,16 @@
 project: drone survey
 Manufacturer: Tekever
 Engine-number: 1 OR 5
-Endurance: 8-16 hours
+Endurance: 14
 MTOW: 25
-Payload: 4kg
-Cruise-speed: 75-90km/h
-Service ceiling: 3600m
+Payload: 4
+Cruise-speed: 80
+Service-ceiling: 3600
 Wingspan: 3.5
 Lenght: 1.9
 Configuration: Detachable VTOL - Fixed Wing
 Fuel-type: Hybrid
-Comunication-range: 100km
+Comunication-range: 100
 Comunication-type: Radio
 Take off mechnism: VTOL, Catapult
 Price:

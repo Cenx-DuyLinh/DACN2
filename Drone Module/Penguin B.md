@@ -2,8 +2,8 @@
 project: drone survey
 Manufacturer: EDGE Autonomy
 Engine-number: "5"
-Service ceiling: 
-Endurance: 20h
+Service-ceiling: 
+Endurance: 20
 MTOW: 
 Payload: 
 Cruise-speed: 
