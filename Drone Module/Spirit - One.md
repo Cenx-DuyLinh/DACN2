@@ -5,7 +5,7 @@ Engine-number: "5"
 Service-ceiling: 
 Endurance: 2.5 hours
 MTOW: 
-Payload: 5 Kg
+Payload: "5"
 Cruise-speed: 100 Km/h
 Wingspan: 
 Lenght: 

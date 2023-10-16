@@ -4,7 +4,7 @@ Manufacturer: PTERO DYNAMICS
 Engine-number: "4"
 Service-ceiling: "5500"
 Endurance: 7 - 16 hour
-MTOW: "145"
+MTOW: 145
 Payload: 23 Kg
 Cruise-speed: 130 - 185 Km/h
 Wingspan: 4

@@ -4,7 +4,7 @@ Manufacturer: EDGE Autonomy
 Engine-number: "5"
 Service ceiling: 4572m
 Endurance: 8h
-MTOW: 20kg
+MTOW: 20
 Payload: 
 Cruise-speed: 55-93km/h
 Wingspan: 4.9
@@ -32,3 +32,6 @@ https://edgeautonomy.io/solutions/vxe30-proven-isr-platform/
 - Cursor-on-target Compliant
 - Multi-UAS Operation from a single GCS, handoffs to / from forward operators
 - Extremely small logistics footprint; Fits in SUV or Truck
+
+
+

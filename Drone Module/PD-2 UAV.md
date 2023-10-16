@@ -4,7 +4,7 @@ Manufacturer: UKRSPEC SYSTEMS
 Engine-number: 1 OR 5
 Service-ceiling: 4500 - 5000 m
 Endurance: 5 - 6 hours
-MTOW: 45 - 55
+MTOW: 55
 Payload: 11 - 19 Kg
 Cruise-speed: 100 - 140 Km/h
 Wingspan: 5

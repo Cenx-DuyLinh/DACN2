@@ -4,8 +4,8 @@ Manufacturer: ELEVONX
 Engine-number: "5"
 Service-ceiling: 
 Endurance: 2.5 - 6 hours
-MTOW: 19 Kg
-Payload: 5 Kg
+MTOW: 19
+Payload: "5"
 Cruise-speed: 72 - 125 Km/h
 Wingspan: 3
 Lenght: 1.9

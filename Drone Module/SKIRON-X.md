@@ -4,7 +4,7 @@ Manufacturer: Aurora
 Engine-number: "5"
 Service ceiling: "?"
 Endurance: ~2 hours
-MTOW: 22.2kg
+MTOW: 22.2
 Payload: 1.45kg
 Cruise-speed: 68-94km/h
 Wingspan: 5

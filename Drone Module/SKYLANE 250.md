@@ -4,8 +4,8 @@ Manufacturer: SKY-DRONES
 Engine-number: "5"
 Service-ceiling: 4800 m
 Endurance: 3.5 - 4 hours
-MTOW: "15"
-Payload: 1.2 Kg
+MTOW: 15
+Payload: "1.2"
 Cruise-speed: 93.6 Km/h
 Wingspan: 2.5
 Lenght: 1.26

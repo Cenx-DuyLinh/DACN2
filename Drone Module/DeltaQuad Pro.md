@@ -4,7 +4,7 @@ Manufacturer: DELTAQUAD
 Engine-number: "5"
 Service-ceiling: 4000m
 Endurance: 1h50m - 2h45m
-MTOW: 6.2 Kg
+MTOW: 6.2
 Payload: 0.4 - 1.2 Kg
 Cruise-speed: 45 - 100 Km/h
 Wingspan: 2.35

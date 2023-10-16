@@ -3,8 +3,8 @@ project: drone survey
 Manufacturer: Tekever
 Engine-number: "2"
 Endurance: 20h
-Service ceiling: "?"
-MTOW: 180kg
+Service ceiling: 
+MTOW: 180
 Payload: 50kg
 Cruise-speed: 100km/h
 Wingspan: 7.3

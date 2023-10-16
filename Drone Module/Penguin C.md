@@ -4,7 +4,7 @@ Manufacturer: EDGE Autonomy
 Engine-number: "1"
 Service ceiling: 4000m
 Endurance: 25h
-MTOW: 25kg
+MTOW: 25
 Payload: 
 Cruise-speed: 74-111.2km/h
 Wingspan: 3.3
