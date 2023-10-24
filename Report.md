@@ -19,6 +19,9 @@ TL;DR: **Decrease the cruise speed**
 		- Attach a leading edge device (Nose flaps, Kruger flaps, and slats)
 		- Other stuff
 		- Others: [Source to this stuff](https://www.ae.utexas.edu/courses/ase463q/design_pages/summer02/activewing/page009.html)
+	4. Adjust the angle of the 2 titled rotor so it can add lift
+
+
 
 # Flight mission
 ---
@@ -26,4 +29,25 @@ The flight mission is based on the Japan-innovation-challenge (JIC2023) flight p
 
 ![](https://i.imgur.com/4xCA4Ei.png)
 
-- Vòng tròn: Khu 
+- **Big circle in the middle:** Competition Area
+- **Little tent at the middle:** Control Area
+
+Going to google map, we can see that the distant are listed as follow:
+![](https://i.imgur.com/CUwBo30.png)
+
+- Diameter: ~10km 
+- Area: ~1000ha 
+Assuming that the plane is flying at a height of 30m, we than have:
+
+| Value                                 | Amount                 |
+| ------------------------------------- | ---------------------- |
+| FPS                                   | 30                     |
+| Flying speed                          | 15m/s                  |
+| Camera view                           | 2α = 65                |
+| Height flying compare to the ground   | 30m                    |
+| Radius of the circle                  | 56.7m                  |
+| The area that the camera see (square) | 6430m2                 |
+| The length of that square             | 40.1m                  |
+| Time flying for 6430m2                | 2.673s                 |
+| Time to flying for 1000ha             | 1555s = 26min ~= 45min |
+|                                       |                        |
