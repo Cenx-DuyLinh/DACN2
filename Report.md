@@ -21,6 +21,7 @@ TL;DR: **Decrease the cruise speed**
 		- Others: [Source to this stuff](https://www.ae.utexas.edu/courses/ase463q/design_pages/summer02/activewing/page009.html)
 	4. Adjust the angle of the 2 titled rotor so it can add lift
 
+<<<<<<< HEAD
 >We need to calculated the Cl.cruise need for flying 15m/s
 - Original Cl.cruise: Cl = 0.5074 (this is at 35m above sea level and 25C)
 - Calculating that Cl.cruise but at the competition zone (This is base on the assumption that the weather is extreme)
@@ -44,6 +45,22 @@ TL;DR: **Decrease the cruise speed**
 
 
 ### Buying new empty frame
+=======
+# Increase the flight time to satisfy flight mission
+---
+### Known information: 
+* The TR-VTOL's battery: 1 * 6S 16000 mAh
+* At hover mode the average of aircraft current usage: ~63 A 
+* The aircraft are equiped with: 
+	* 2 Sunnysky X3520 - 520 KV with XDL 14 * 8 in propellers (front)
+	* 1 Sunnysky X6212S - 300KV with 22 * 6.6 in propeller (rear)
+	*  And other electric components (Flight controller, servo, GPS,...)
+* There are no data on level flight mode's electricity consumption.
+* The camera we intended to use: [FLIR Vue Pro 336 30Hz Thermal Imaging Camera](https://www.tester.co.uk/flir-vue-pro-336-30hz-thermal-imaging-camera-choice-of-lens)
+* Video transmitter we intended to use: *Not yet selected*
+## The required endurance time:
+* According to the flight mission, the minimum required endurance for the aircraft to cover whole area of competition location (1000ha) is approximately ~ 45 mins. This approximation haven't account for the altitude and terrain variation in the competition area.
+
 
 
 # Flight mission

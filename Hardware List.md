@@ -7,6 +7,8 @@ type: Report
 - Flight controller 
 - Pin 
 - GPS
+* Camera
+* Video transmitter
 - Mạch chia nguồn 
 - Servo 
 - Dây điện
