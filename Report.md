@@ -64,7 +64,7 @@ TL;DR: **Decrease the cruise speed**
 => The estimated pixel on person at this condition is about 515 pixel^2***
 
 ![Imgur](https://i.imgur.com/jYnHwvc.png)
-**How angle of camera effect the ground covered area**
+**How angle of camera effect the ground covered area and pixel shape**
 
 There are some change we can make in order to reduce the required endurance flight time:
 - Increase the searching altitude of the aircraft. -> Increase scanning area
@@ -98,5 +98,5 @@ Assuming that the plane is flying at a height of 30m, we than have:
 | Scanning area                         | ~133.5m2               |
 | The length of that square             | 10.04m                 |
 | Time flying through each scanning area| 0.67s                  |
-| Time to flying for 1000ha             | ~50180s = 836.3m = 13h |
+| Time to flying for 1000ha             | ~50180s = 836.3m = 14h |
 
