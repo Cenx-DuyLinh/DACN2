@@ -63,6 +63,9 @@ TL;DR: **Decrease the cruise speed**
 ***=> This approximation is calculated at h = 30 m and V = 15 m/s. 
 => The estimated pixel on person at this condition is about 515 pixel^2***
 
+![Imgur](https://i.imgur.com/jYnHwvc.png)
+**How angle of camera effect the ground covered area**
+
 There are some change we can make in order to reduce the required endurance flight time:
 - Increase the searching altitude of the aircraft. -> Increase scanning area
 - Increase the cruise speed of the aircraft.
