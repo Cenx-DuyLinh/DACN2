@@ -83,11 +83,10 @@ Assuming that the plane is flying at a height of 30m, we than have:
 | ------------------------------------- | ---------------------- |
 | FPS                                   | 30                     |
 | Flying speed                          | 15m/s                  |
-| Camera view                           | 2α = 65                |
+| Camera field of view                  | α1 = 25; α2 = 19       |
 | Height flying compare to the ground   | 30m                    |
-| Radius of the circle                  | 56.7m                  |
-| The area that the camera see (square) | 6430m2                 |
-| The length of that square             | 40.1m                  |
-| Time flying for 6430m2                | 2.673s                 |
-| Time to flying for 1000ha             | 1555s = 26min ~= 45min |
+| Scanning area                         | ~133.5m2               |
+| The length of that square             | 10.04m                 |
+| Time flying through each scanning area| 0.67s                  |
+| Time to flying for 1000ha             | ~50180s = 836.3m = 13h |
 
