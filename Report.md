@@ -21,7 +21,6 @@ TL;DR: **Decrease the cruise speed**
 		- Others: [Source to this stuff](https://www.ae.utexas.edu/courses/ase463q/design_pages/summer02/activewing/page009.html)
 	4. Adjust the angle of the 2 titled rotor so it can add lift
 
-<<<<<<< HEAD
 >We need to calculated the Cl.cruise need for flying 15m/s
 - Original Cl.cruise: Cl = 0.5074 (this is at 35m above sea level and 25C)
 - Calculating that Cl.cruise but at the competition zone (This is base on the assumption that the weather is extreme)
