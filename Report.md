@@ -1,7 +1,7 @@
 # Acquiring 15 m/s cruise speed
 ---
 Given information: 
-- Cruising height around 30m
+- Cruising height around 30m (Relative to the land below)
 - The airplane will be the tilted-rotor unmanned aerial vehicle (TRUAV)
 - The hardware can either be:
 	- The old TRUAV from các anh Thịnh, Cường, Lợi 
@@ -13,7 +13,7 @@ TL;DR: **Decrease the cruise speed**
 
 > So how are we going to do it ? 
 - Increase the lift coefficient of the aircraft
-	1. Reduce the weight of the aircraft 
+	1. ~~Reduce the weight of the aircraft ~~
 	2. Increase the angle of attack of the aircraft (Note: AOA can change to maximum ~6deg, [[NguyenGiaThinh|Reason why]])
 	3. Add aerodynamics component:
 		- Attach a leading edge device (Nose flaps, Kruger flaps, and slats)
@@ -21,6 +21,29 @@ TL;DR: **Decrease the cruise speed**
 		- Others: [Source to this stuff](https://www.ae.utexas.edu/courses/ase463q/design_pages/summer02/activewing/page009.html)
 	4. Adjust the angle of the 2 titled rotor so it can add lift
 
+>We need to calculated the Cl.cruise need for flying 15m/s
+- Original Cl.cruise: Cl = 0.5074 (this is at 35m above sea level and 25C)
+- Calculating that Cl.cruise but at the competition zone (This is base on the assumption that the weather is extreme)
+
+| Type                     | Value     | Unit  |
+| ------------------------ | --------- | ----- |
+| Mach number              | 0.04479   | -      |
+| Height                   | 1000      | m     |
+| Temperature              | 6         | C     |
+| Density                  | 1.1218    | kg/m3 |
+| Reynold numbers          | 301817    | -     |
+| Dynamic viscosity        | 1.773 E-5 | kg/ms |
+| Cl.cruise at 19m/s - 30m | 0.5074    | -     |
+| Cl.cruise at 15m/s - 1km | 0.8574    | -     |
+ 
+![](https://i.imgur.com/DwQFbG5.png)
+
+- Based on the the simulation in XFLR5 at Reynold = 301817, the AOA of the wing should increase to ~5 degree for enough Cl.cruise
+![](https://i.imgur.com/4gHTYWA.png)
+
+
+
+### Buying new empty frame
 
 
 # Flight mission
@@ -50,4 +73,4 @@ Assuming that the plane is flying at a height of 30m, we than have:
 | The length of that square             | 40.1m                  |
 | Time flying for 6430m2                | 2.673s                 |
 | Time to flying for 1000ha             | 1555s = 26min ~= 45min |
-|                                       |                        |
+

@@ -26,5 +26,7 @@ type: LVTN
   ![](https://i.imgur.com/8K3qFSA.png)
 
 - Thông số của cánh:
-  ![](https://i.imgur.com/sgrPJMR.png)
+![](https://i.imgur.com/sgrPJMR.png)
 >Note: Nếu có dự tính thay đổi góc tấn của cánh thì chỉ được tới tối đa ~6 để maximize cái Cl/Cd
+
+- Cl = 0.5074 (this is at 35m above sea level and 25C)
