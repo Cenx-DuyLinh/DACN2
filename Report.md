@@ -66,6 +66,9 @@ TL;DR: **Decrease the cruise speed**
 ![Imgur](https://i.imgur.com/jYnHwvc.png)
 **How angle of camera effect the ground covered area and pixel shape**
 
+![](https://i.imgur.com/0YVEYVj.png)
+**Estimated flight time of current TR-VTOL in level flight**
+
 There are some change we can make in order to reduce the required endurance flight time:
 - Increase the searching altitude of the aircraft. -> Increase scanning area
 - Increase the cruise speed of the aircraft.
