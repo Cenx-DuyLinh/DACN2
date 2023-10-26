@@ -7,7 +7,7 @@ Given information:
 - The hardware can either be:
 	- The old TRUAV from các anh Thịnh, Cường, Lợi 
 	- Buying an empty airframe and then work from there
-### Getting the old TRUAV
+## 1. Getting the old TRUAV
 Since the airplane is already built an it has a cruise speed of 19m/s (worst case is that we will only get the old frame and nothing else) we need to redesign it, making the lift at 15m/s equal to the lift at 19m/s
 
 TL;DR: **Decrease the cruise speed** 
@@ -16,32 +16,36 @@ TL;DR: **Decrease the cruise speed**
 - Increase the lift coefficient of the aircraft
 	1. ~~Reduce the weight of the aircraft ~~
 	2. Increase the angle of attack of the aircraft (Note: AOA can change to maximum ~6deg, [[NguyenGiaThinh|Reason why]])
-	3. Add aerodynamics component:
+	3. Add high-lift component:
 		- Attach a leading edge device (Nose flaps, Kruger flaps, and slats)
 		- Other stuff
 		- Others: [Source to this stuff](https://www.ae.utexas.edu/courses/ase463q/design_pages/summer02/activewing/page009.html)
 	4. Adjust the angle of the 2 titled rotor so it can add lift
-
+### 1.1 Increase the AOA of the wing
 >We need to calculated the Cl.cruise need for flying 15m/s
 - Original Cl.cruise: Cl = 0.5074 (this is at 35m above sea level and 25C)
 - Calculating that Cl.cruise but at the competition zone (This is base on the assumption that the weather is extreme)
+![](https://i.imgur.com/ELtDgAR.png)
 
-| Type                     | Value     | Unit  |
-| ------------------------ | --------- | ----- |
-| Mach number              | 0.04479   | -      |
-| Height                   | 1000      | m     |
-| Temperature              | 6         | C     |
-| Density                  | 1.1218    | kg/m3 |
-| Reynold numbers          | 301817    | -     |
-| Dynamic viscosity        | 1.773 E-5 | kg/ms |
-| Cl.cruise at 19m/s - 30m | 0.5074    | -     |
-| Cl.cruise at 15m/s - 1km | 0.8574    | -     |
- 
-![](https://i.imgur.com/DwQFbG5.png)
-
-- Based on the the simulation in XFLR5 at Reynold = 301817, the AOA of the wing should increase to ~5 degree for enough Cl.cruise
+- Based on the the simulation in XFLR5 at Reynold = 309146, the AOA of the wing should increase to ~5 degree for enough Cl.cruise
 ![](https://i.imgur.com/4gHTYWA.png)
 
+### 1.2 Add high-lift components
+Source: Hansen, M. O. L. (2008). Aerodynamics of Wind Turbines (2nd ed.). Earthscan Publications Ltd.
+
+![](https://i.imgur.com/eSqyVfN.png)
+
+![](https://i.imgur.com/MFwnZF9.png)
+
+![](https://i.imgur.com/LbsEZA3.png)
+
+![](https://i.imgur.com/YoHVBQw.png)
+
+![](https://i.imgur.com/Dec6g9A.png)
+
+![](https://i.imgur.com/PRmMttS.png)
+
+### 1.3 Adjust the angle of the 2 titled rotor
 
 
 ### Buying new empty frame
