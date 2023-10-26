@@ -44,7 +44,7 @@ TL;DR: **Decrease the cruise speed**
 
 
 ### Buying new empty frame
-=======
+
 # Increase the flight time to satisfy flight mission
 ---
 ### Known information: 
