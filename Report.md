@@ -1,5 +1,6 @@
 # Acquiring 15 m/s cruise speed
 ---
+[Sheet link](https://docs.google.com/spreadsheets/d/1Ys8nD785RTRev7et7yYlS1L4-2iYJHopqZFAbuxZgvw/edit?usp=sharing)
 Given information: 
 - Cruising height around 30m (Relative to the land below)
 - The airplane will be the tilted-rotor unmanned aerial vehicle (TRUAV)
