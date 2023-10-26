@@ -59,9 +59,16 @@ TL;DR: **Decrease the cruise speed**
 * The camera we intended to use: [FLIR Vue Pro 336 30Hz Thermal Imaging Camera](https://www.tester.co.uk/flir-vue-pro-336-30hz-thermal-imaging-camera-choice-of-lens)
 * Video transmitter we intended to use: *Not yet selected*
 ## The required endurance time:
-* According to the flight mission, the minimum required endurance for the aircraft to cover whole area of competition location (1000ha) is approximately ~ 45 mins. This approximation haven't account for the altitude and terrain variation in the competition area.
+* According to the flight mission, the minimum required endurance for the aircraft to cover whole area of competition location (1000ha) is approximately ~ 14 hrs. This approximation haven't account for the altitude, terrain variation in the competition area and the overlapping scanning area in reality.
+***=> This approximation is calculated at h = 30 m and V = 15 m/s. 
+=> The estimated pixel on person at this condition is about 515 pixel^2***
 
-
+There are some change we can make in order to reduce the required endurance flight time:
+- Increase the searching altitude of the aircraft. -> Increase scanning area
+- Increase the cruise speed of the aircraft.
+- Optimize flight plan to increase chance of finding target.
+***+ For example: If V = 20 m/s and h = 50m
+=> The required time for operation is 6,26 hrs and the estimated pixel on person is 185,48 pixel^2***
 
 # Flight mission
 ---
