@@ -48,26 +48,25 @@ TL;DR: **Decrease the cruise speed**
 
 # Increase the flight time to satisfy flight mission
 ---
-### Known information: 
+## Known information: 
 * The TR-VTOL's battery: 1 * 6S 16000 mAh
 * At hover mode the average of aircraft current usage: ~63 A 
 * The aircraft are equiped with: 
 	* 2 Sunnysky X3520 - 520 KV with XDL 14 * 8 in propellers (front)
 	* 1 Sunnysky X6212S - 300KV with 22 * 6.6 in propeller (rear)
 	*  And other electric components (Flight controller, servo, GPS,...)
-* There are no data on level flight mode's electricity consumption.
+* There are no data on level flight mode's electricity consumption (From previous report of TR-VTOL).
 * The camera we intended to use: [FLIR Vue Pro 336 30Hz Thermal Imaging Camera](https://www.tester.co.uk/flir-vue-pro-336-30hz-thermal-imaging-camera-choice-of-lens)
 * Video transmitter we intended to use: *Not yet selected*
-## The required endurance time:
-* According to the flight mission, the minimum required endurance for the aircraft to cover whole area of competition location (1000ha) is approximately ~ 14 hrs. This approximation haven't account for the altitude, terrain variation in the competition area and the overlapping scanning area in reality.
+
+## The relationship between FOV and mounting angle of TI cam
+
+## Calculating the flight time of the TR-VTOL
+
+## The total required endurance time:
+According to the flight mission, the minimum required endurance for the aircraft to cover whole area of competition location (1000ha) is approximately ~ 14 hrs. This approximation haven't account for the altitude, terrain variation in the competition area and the overlapping scanning area in reality.
 ***=> This approximation is calculated at h = 30 m and V = 15 m/s. 
 => The estimated pixel on person at this condition is about 515 pixel^2***
-
-![Imgur](https://i.imgur.com/jYnHwvc.png)
-**How angle of camera effect the ground covered area and pixel shape**
-
-![](https://i.imgur.com/0YVEYVj.png)
-**Estimated flight time of current TR-VTOL in level flight**
 
 There are some change we can make in order to reduce the required endurance flight time:
 - Increase the searching altitude of the aircraft. -> Increase scanning area
