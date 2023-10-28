@@ -31,7 +31,12 @@ TL;DR: **Decrease the cruise speed**
 ![](https://i.imgur.com/4gHTYWA.png)
 
 ### 1.2 Add high-lift components
-Source: Hansen, M. O. L. (2008). Aerodynamics of Wind Turbines (2nd ed.). Earthscan Publications Ltd.
+
+Because the flaps of the airplane is located at 25% of the MAC
+![](https://i.imgur.com/GOHMB1p.png)
+We can apply to the formula below:
+
+**Source:** *Hansen, M. O. L. (2008). Aerodynamics of Wind Turbines (2nd ed.). Earthscan Publications Ltd.*
 
 ![](https://i.imgur.com/eSqyVfN.png)
 
@@ -45,6 +50,12 @@ Source: Hansen, M. O. L. (2008). Aerodynamics of Wind Turbines (2nd ed.). Earths
 
 ![](https://i.imgur.com/PRmMttS.png)
 
+![](https://i.imgur.com/2IP8Wqx.png)
+
+The increase in lift coefficient are calculated in the [Sheet link](https://docs.google.com/spreadsheets/d/1Ys8nD785RTRev7et7yYlS1L4-2iYJHopqZFAbuxZgvw/edit?usp=sharing), we can see that there is a small increase (maximum of about 0.28) in the Cl.cruise
+![](https://i.imgur.com/vpg41Ui.png)
+
+However we must also consider the increase in drag when doing this
 ### 1.3 Adjust the angle of the 2 titled rotor
 
 
@@ -94,16 +105,9 @@ Going to google map, we can see that the distant are listed as follow:
 
 - Diameter: ~10km 
 - Area: ~1000ha 
-Assuming that the plane is flying at a height of 30m, we than have:
+Assuming that the plane is flying at a height of 30m, we can calculate as in the sheet describe  [Sheet link](https://docs.google.com/spreadsheets/d/1Ys8nD785RTRev7et7yYlS1L4-2iYJHopqZFAbuxZgvw/edit?usp=sharing)
 
-| Value                                 | Amount                 |
-| ------------------------------------- | ---------------------- |
-| FPS                                   | 30                     |
-| Flying speed                          | 15m/s                  |
-| Camera field of view                  | α1 = 25; α2 = 19       |
-| Height flying compare to the ground   | 30m                    |
-| Scanning area                         | ~133.5m2               |
-| The length of that square             | 10.04m                 |
-| Time flying through each scanning area| 0.67s                  |
-| Time to flying for 1000ha             | ~50180s = 836.3m = 14h |
+![](https://i.imgur.com/EXyZKbp.png)
+
+
 
