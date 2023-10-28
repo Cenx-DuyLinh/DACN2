@@ -23,7 +23,8 @@ TL;DR: **Decrease the cruise speed**
 	4. Adjust the angle of the 2 titled rotor so it can add lift
 ### 1.1 Increase the AOA of the wing
 >We need to calculated the Cl.cruise need for flying 15m/s
-- Original Cl.cruise: Cl = 0.5074 (this is at 35m above sea level and 25C)
+- Original Cl.cruise: Cl = 0.5074 (35m ASL, 25C, 19m/s)
+- JIC Cl.cruise : Cl = 0.531 (960 ASL, 6C, 19m/s)
 - Calculating that Cl.cruise but at the competition zone (This is base on the assumption that the weather is extreme)
 ![](https://i.imgur.com/ELtDgAR.png)
 
