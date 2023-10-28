@@ -6,7 +6,7 @@ Given information:
 - The airplane will be the tilted-rotor unmanned aerial vehicle (TRUAV)
 - The hardware can either be:
 	- The old TRUAV from các anh Thịnh, Cường, Lợi 
-	- Buying an empty airframe and then work from there
+	- ~~Buying an empty airframe and then work from there~~
 ## 1. Getting the old TRUAV
 Since the airplane is already built an it has a cruise speed of 19m/s (worst case is that we will only get the old frame and nothing else) we need to redesign it, making the lift at 15m/s equal to the lift at 19m/s
 
@@ -24,9 +24,10 @@ TL;DR: **Decrease the cruise speed**
 ### 1.1 Increase the AOA of the wing
 >We need to calculated the Cl.cruise need for flying 15m/s
 - Original Cl.cruise: Cl = 0.5074 (35m ASL, 25C, 19m/s)
-- JIC Cl.cruise : Cl = 0.531 (960 ASL, 6C, 19m/s)
-- Calculating that Cl.cruise but at the competition zone (This is base on the assumption that the weather is extreme)
-![](https://i.imgur.com/ELtDgAR.png)
+- JIC Cl.cruise : Cl = 0.531 (960m ASL, 6C, 19m/s)
+- JIC Cl.cruise but at 15m/s, as we can see there is a difference of about 0.32 in Cl when flying at 15m/s compare to 19m/s
+![Uploading file...7ku1j]()
+
 
 - Based on the the simulation in XFLR5 at Reynold = 309146, the AOA of the wing should increase to ~5 degree for enough Cl.cruise
 ![](https://i.imgur.com/4gHTYWA.png)
@@ -60,7 +61,7 @@ However we must also consider the increase in drag when doing this
 ### 1.3 Adjust the angle of the 2 titled rotor
 
 
-### Buying new empty frame
+~~### Buying new empty frame~~
 
 # Increase the flight time to satisfy flight mission
 ---
