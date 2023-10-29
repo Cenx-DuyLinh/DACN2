@@ -117,12 +117,20 @@ Then we can estimate the maximum endurance time in level flight mode using equat
 
 ***=> The estimated endurance of the aircraft in level flight mode is about 15 minutes***
 ## The relationship between FOV and mounting angle of TI cam
+![](https://i.imgur.com/QSFPAcq.png)
+By increase the φ angle of mounted camera, we can increase the maximum scanning area while also increase the chance to discover heat source that hidden below the dense forest environment. However, doing so will make the shape of the further pixel distorted (as in picture above) ->Thus reduce the accuracy of the heat signal reading.
 
+It is stated in the [Optimising observing strategies for monitoring animals using drone-mounted thermal infrared cameras. (researchgate.net)](https://www.researchgate.net/publication/329390751_Optimising_observing_strategies_for_monitoring_animals_using_drone-mounted_thermal_infrared_cameras) that "The minimum diameter for accurate identi cation of an object (or species of animal) and measurement of its temperature is 10 pixels for most TIR cameras."
 
-## The total required endurance time:
+Equation to determine the shape of each pixel is given below:
+![](https://i.imgur.com/RYK1xSL.png)
+![](https://i.imgur.com/v6rAnWM.png)
+Source: [(PDF) Optimising observing strategies for monitoring animals using drone-mounted thermal infrared cameras. (researchgate.net)](https://www.researchgate.net/publication/329390751_Optimising_observing_strategies_for_monitoring_animals_using_drone-mounted_thermal_infrared_cameras)
+
+## Calculate the total required endurance time:
 According to the flight mission, the minimum required endurance for the aircraft to cover whole area of competition location (1000ha) is approximately ~ 14 hrs. This approximation haven't account for the altitude, terrain variation in the competition area and the overlapping scanning area in reality.
-***=> This approximation is calculated at h = 30 m and V = 15 m/s. 
-=> The estimated pixel on person at this condition is about 515 pixel^2***
+***=> This approximation is calculated at h = 30 m, V = 15 m/s and the camera is mounted at 90 degree angle
+=> The estimated number of pixels on a person at this condition is about 515 pixel^2***
 
 There are some change we can make in order to reduce the required endurance flight time:
 - Increase the searching altitude of the aircraft. -> Increase scanning area
