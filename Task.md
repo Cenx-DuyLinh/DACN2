@@ -40,9 +40,15 @@ type: month
 		-> Jira
 	- [x] Phân chia nhiệm vụ cập nhật Gannt chart
 - [ ] Viết lại nhiệm vụ cho đồ án chuyên ngành 
-	- [ ] Xem, đọc lại tổng quan về các loại máy bay có cơ cấu tilt rotor, phải có hiểu biết về cái tổng quan
-	- [ ] Xem các số liệu mình có thể điền vào phiếu technical report cô Hiếu đã đưa
-- [ ] Đánh giá và vẽ lại mô hình công việc 
+	- [ ] Xem, đọc lại tổng quan về các loại máy bay có cơ cấu tilt rotor, phải có hiểu biết về cái tổng quan #duylinh 
+	- [ ] Xem các số liệu mình có thể điền vào phiếu technical report cô Hiếu đã đưa #vulong 
+	- [ ] Viết phần 1.1 Project introduction #vulong 
+	- [ ] Viết phần 1.2 Project objectives #vulong 
+	- [ ] Viết phần 1.3 Problem to be solve #duylinh 
+	- [ ] Viết phần 1.4 Team member role's #duylinh #vulong 
+	- [ ] Hoàn thành bảng Gantt chart #duylinh 
+	- [ ] Thiết kế phần 1.5 Approaching method #duylinh 
+- [ ] Đánh giá và vẽ lại mô hình công việc #duylinh 
 > Quan trọng trong việc đánh giá lại mô hình: 
 > 	1. Tìm hiểu lại cơ cấu điều khiển cho cơ chế tilt
 > 	2. Chọn lại profile cho cánh, tạo vòng lặp
