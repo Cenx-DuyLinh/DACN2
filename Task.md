@@ -31,7 +31,7 @@
 		- [x] Lĩnh 
 			-> Thiết kế và tính toán đặc tính khí động cho máy bay 
 			-> Phân tích và thiết kế cải tiến cho kết cấu máy bay 
-			-> Thử nghiệm đặc tính ổn định của máy bay 
+			-> Tìm hiểu và phân đặc tính ổn định của máy bay 
 		- [x] Long 
 			-> Thiết kế hệ thống điện tử trên máy bay, truyền tính hiệu và camera
 			-> Phân tích và thiết kế cải tiến cho kết cấu máy bay 
