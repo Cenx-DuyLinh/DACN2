@@ -33,9 +33,9 @@
 			-> Phân tích và thiết kế cải tiến cho kết cấu máy bay 
 			-> Tìm hiểu và phân đặc tính ổn định của máy bay 
 		- [x] Long 
-			-> Thiết kế hệ thống điện tử trên máy bay, truyền tính hiệu và camera
-			-> Phân tích và thiết kế cải tiến cho kết cấu máy bay 
-			-> Thiết kế cơ khí cơ cấu xoay chong chóng
+			-> Thiết kế hệ thống điện tử cho máy bay và trạm điều khiển mặt đất.
+			-> Tìm hiểu đặc tính của các loại camera và ứng dụng của chúng vào nhiệm vụ tìm kiếm, cứu hộ.
+			-> Phân tích và cải tiến thiết kế kết cấu máy bay nhằm tăng hiệu suất hoạt động.
 - [x] Hoàn thành Gannt chart 
 	- [x] Chọn phần mềm plot Gannt chart 
 		-> Jira
