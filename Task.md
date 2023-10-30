@@ -1,7 +1,8 @@
-```gEvent
-date: 2023-10-28
-type: month
-```
+
+# Gantt Chart
+---
+[Gantt chart link ](https://truav-crsc.atlassian.net/jira/core/projects/TRUAV/timeline?rangeMode=weeks)
+
 # Week 1 (28-10-2023)
 ---
 - [x] Viết lại phiếu giao nhiệm vụ 
@@ -44,7 +45,7 @@ type: month
 	- [ ] Xem các số liệu mình có thể điền vào phiếu technical report cô Hiếu đã đưa #vulong 
 	- [ ] Viết phần 1.1 Project introduction #vulong 
 	- [ ] Viết phần 1.2 Project objectives #vulong 
-	- [ ] Viết phần 1.3 Problem to be solve #duylinh 
+	- [x] Viết phần 1.3 Problem to be solve [[1.3 Problem to be solve]] #duylinh 
 	- [ ] Viết phần 1.4 Team member role's #duylinh #vulong 
 	- [ ] Hoàn thành bảng Gantt chart #duylinh 
 	- [ ] Thiết kế phần 1.5 Approaching method #duylinh 
