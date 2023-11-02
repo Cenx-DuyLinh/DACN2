@@ -7,7 +7,7 @@
 ---
 - [x] Viết lại phiếu giao nhiệm vụ 
 	- [x] Chọn tên đề tài tiếng anh 
-		-> Design, analyze, and optimize of a tilt-rotor tricopter VTOL UAV
+		-> Design, analyze, and optimize a tilt-rotor tricopter VTOL UAV
 	- [x] Chọn tên đề tài tiếng việt 
 		-> Thiết kế, phân tích, và cải tiến máy bay cất và hạ cánh thẳng đứng với cơ cấu chong chóng xoay.
 
@@ -30,12 +30,12 @@
 		4. Thử nghiệm đặc tính ổn định của máy bay 
 		- [x] Lĩnh 
 			-> Thiết kế và tính toán đặc tính khí động cho máy bay 
-			-> Phân tích và thiết kế cải tiến cho kết cấu máy bay 
-			-> Tìm hiểu và phân đặc tính ổn định của máy bay 
+			-> Phân tích và thiết kế cải tiến cho kết cấu cánh máy bay 
+			-> Tìm hiểu và phân tích đặc tính ổn định của máy bay 
 		- [x] Long 
 			-> Thiết kế hệ thống điện tử cho máy bay và trạm điều khiển mặt đất.
 			-> Tìm hiểu đặc tính của các loại camera và ứng dụng của chúng vào nhiệm vụ tìm kiếm, cứu hộ.
-			-> Phân tích và cải tiến thiết kế kết cấu máy bay nhằm tăng hiệu suất hoạt động.
+			-> Phân tích và cải tiến thiết kế kết cấu thân máy bay
 - [x] Hoàn thành Gannt chart 
 	- [x] Chọn phần mềm plot Gannt chart 
 		-> Jira
@@ -47,7 +47,7 @@
 	- [ ] Viết phần 1.2 Project objectives #vulong 
 	- [x] Viết phần 1.3 Problem to be solve [[1.3 Problem to be solve]] #duylinh 
 	- [ ] Viết phần 1.4 Team member role's #duylinh #vulong 
-	- [ ] Hoàn thành bảng Gantt chart #duylinh 
+	- [x] Hoàn thành bảng Gantt chart #duylinh 
 	- [ ] Thiết kế phần 1.5 Approaching method #duylinh 
 - [ ] Đánh giá và vẽ lại mô hình công việc #duylinh 
 > Quan trọng trong việc đánh giá lại mô hình: 

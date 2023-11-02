@@ -3,8 +3,7 @@ type: LVTN
 ---
 # Bài luận văn
 ---
-![[LVTN_NguyenGiaThinh.pdf]]
-
+[[LVTN_NguyenGiaThinh.pdf]]
 
 # Nội dung chính
 ---
