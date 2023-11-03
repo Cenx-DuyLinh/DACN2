@@ -18,7 +18,9 @@ type: LVTN
 
 # Thiết kế cấu hình và kích thước cánh
 ---
-- Phương pháp: Đi khảo sát thực tế các máy bay cùng loại -> đưa ra mối liên hệ về thông số thiết kế.
+- Lựa chọn GTOW
+![](https://i.imgur.com/x8VJTZa.png)
+- Lựa chọn kích thước cánh
 ![](https://i.imgur.com/BlhULuv.png)
 
 - Khối lượng của máy bay 6.5kg:

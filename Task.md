@@ -7,9 +7,18 @@
 ---
 - [x] Viết lại phiếu giao nhiệm vụ 
 	- [x] Chọn tên đề tài tiếng anh 
-		-> Design, analyze, and optimize a tilt-rotor tricopter VTOL UAV
+		~~-> Design, analyze, and optimize a tilt-rotor tricopter VTOL UAV~~
+		-> Design and testing of a tilt-rotor tricopter VTOL UAV for search and rescue
 	- [x] Chọn tên đề tài tiếng việt 
-		-> Thiết kế, phân tích, và cải tiến máy bay cất và hạ cánh thẳng đứng với cơ cấu chong chóng xoay.
+		~~-> Thiết kế, phân tích, và cải tiến máy bay cất và hạ cánh thẳng đứng với cơ cấu chong chóng xoay.~~
+		~~-> Thiết kế và thử nghiệm máy bay cất và hạ cánh thẳng đứng với cơ cấu chong chóng xoay phục vụ việc tìm kiếm và cứu nạn~~
+		-> Bay thử nghiệm và đánh giá tính năng của máy bay cất hạ cánh thẳng đứng với cơ cấu chong chóng xoay
+		- Đánh giá hiện trạng và phục hồi các linh kiện thiết bị điện tử trên máy bay #vulong 
+		- Tìm hiểu cách điều khiển cơ cấu chong chóng xoay #duylinh 
+		- Bay thử nghiệm và đánh giá thời gian bay ở chế độ bay ba chong chóng trực thăng (copter mode) và chế độ bay bằng với cơ cấu chong chóng xoay #duylinh 
+		- Đánh giá kết cấu và nêu ra các biện pháp cải tiến gia công chế tạo nhằm tối ưu hóa khối lượng máy bay #vulong 
+		- Tìm hiểu tập hợp lại các mô hình TRUAV/VTOL UAV đã được nghiên cứu và thương mại hóa (nếu không có thì có thể nói là chưa được thương mại hóa, hoặc có thể nói chung về vtol uav) #chung
+		- (Có thể bổ sung thêm) Lập danh mục các thiết bị bổ sung thêm (NSX là ai, mua ở đâu, mua ntn) #vulong 
 
 	- [x] Chọn nhiệm vụ luận văn 
 		1. Thiết kế, tính toán lại đặc tính khí động lực học cho máy bay
@@ -28,11 +37,11 @@
 			- Thiết kế mô hình 3D cánh máy bay 
 		3. Khảo sát về cơ cấu lực đẩy chong chóng xoay 
 		4. Thử nghiệm đặc tính ổn định của máy bay 
-		- [x] Lĩnh 
+		- [ ] Lĩnh 
 			-> Thiết kế và tính toán đặc tính khí động cho máy bay 
 			-> Phân tích và thiết kế cải tiến cho kết cấu cánh máy bay 
 			-> Tìm hiểu và phân tích đặc tính ổn định của máy bay 
-		- [x] Long 
+		- [ ] Long 
 			-> Thiết kế hệ thống điện tử cho máy bay và trạm điều khiển mặt đất.
 			-> Tìm hiểu đặc tính của các loại camera và ứng dụng của chúng vào nhiệm vụ tìm kiếm, cứu hộ.
 			-> Phân tích và cải tiến thiết kế kết cấu thân máy bay

@@ -3,7 +3,7 @@ type: LVTN
 ---
 # Bài luận văn
 ---
-![[LVTN_TrinhVinhLoi_1811070.pdf]]
+[[LVTN_TrinhVinhLoi_1811070.pdf]]
 
 # Nội dung chính
 ---

@@ -3,7 +3,7 @@ type: LVTN
 ---
 # Bài báo cáo 
 ---
-![[LVTN_Phan Minh Cuong_1811641.docx.pdf]]
+[[LVTN_Phan Minh Cuong_1811641.docx.pdf]]
 
 # Nội dung chính 
 ---
