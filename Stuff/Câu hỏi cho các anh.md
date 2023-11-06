@@ -1,0 +1,15 @@
+- [ ] File PARAM các anh còn giữ không 
+- [ ] File XFLR5 các anh còn giữ không 
+- [ ] Mắc mạch 6C như vậy có hợp lý với con cũ không 
+- [ ] Mạch FC hồi đó xài Pix4 hay là Durandal
+- [ ] Cách nối giữa mạch hạ áp với với các bề mặt điều khiển 
+![](https://i.imgur.com/H4LvBzL.png)
+- Cách để nối giữa cái mạch hạ áp với 4 cái bề mặt điều khiển, dây tín hiệu nối ntn ?
+- Hiện tại thì giữa các mạch hạ áp với servo thì đều là servo 3 dây (cái) gắn với cái mạch hạ áp 2 dây (cái), cái dây nguồn thì nối nói cái servo 3 dây ntn ?
+- [ ] Xin các anh được tháo cái vỏ của cái fuselage
+- [ ] Tháo các linh kiện không cần thiết ra được không 
+	- [ ] Raspberry
+	- [ ] Mạch Wi-Fi
+- [ ] Có cách nào để gỡ đống keo ra không
+- [ ] Nếu là cái mạch Durandal thì bọn em làm cái như vậy hợp lý chưa 
+- [ ] Quy trình mua pin, hải quan như thế nào
