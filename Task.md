@@ -8,7 +8,8 @@
 - [x] Viết lại phiếu giao nhiệm vụ 
 	- [x] Chọn tên đề tài tiếng anh 
 		~~-> Design, analyze, and optimize a tilt-rotor tricopter VTOL UAV~~
-		-> Design and testing of a tilt-rotor tricopter VTOL UAV for search and rescue
+		~~-> Design and testing of a tilt-rotor tricopter VTOL UAV for search and rescue~~
+		Testing and evaluation of a title rotor tricopter VTOL UAV 
 	- [x] Chọn tên đề tài tiếng việt 
 		~~-> Thiết kế, phân tích, và cải tiến máy bay cất và hạ cánh thẳng đứng với cơ cấu chong chóng xoay.~~
 		~~-> Thiết kế và thử nghiệm máy bay cất và hạ cánh thẳng đứng với cơ cấu chong chóng xoay phục vụ việc tìm kiếm và cứu nạn~~
@@ -37,11 +38,11 @@
 			- Thiết kế mô hình 3D cánh máy bay 
 		3. Khảo sát về cơ cấu lực đẩy chong chóng xoay 
 		4. Thử nghiệm đặc tính ổn định của máy bay 
-		- [ ] Lĩnh 
+		- [x] Lĩnh 
 			-> Thiết kế và tính toán đặc tính khí động cho máy bay 
 			-> Phân tích và thiết kế cải tiến cho kết cấu cánh máy bay 
 			-> Tìm hiểu và phân tích đặc tính ổn định của máy bay 
-		- [ ] Long 
+		- [x] Long 
 			-> Thiết kế hệ thống điện tử cho máy bay và trạm điều khiển mặt đất.
 			-> Tìm hiểu đặc tính của các loại camera và ứng dụng của chúng vào nhiệm vụ tìm kiếm, cứu hộ.
 			-> Phân tích và cải tiến thiết kế kết cấu thân máy bay
@@ -49,7 +50,7 @@
 	- [x] Chọn phần mềm plot Gannt chart 
 		-> Jira
 	- [x] Phân chia nhiệm vụ cập nhật Gannt chart
-- [ ] Viết lại nhiệm vụ cho đồ án chuyên ngành 
+- [x] Viết lại nhiệm vụ cho đồ án chuyên ngành 
 	- [ ] Xem, đọc lại tổng quan về các loại máy bay có cơ cấu tilt rotor, phải có hiểu biết về cái tổng quan #duylinh 
 	- [ ] Xem các số liệu mình có thể điền vào phiếu technical report cô Hiếu đã đưa #vulong 
 	- [ ] Viết phần 1.1 Project introduction #vulong 
@@ -58,11 +59,13 @@
 	- [ ] Viết phần 1.4 Team member role's #duylinh #vulong 
 	- [x] Hoàn thành bảng Gantt chart #duylinh 
 	- [ ] Thiết kế phần 1.5 Approaching method #duylinh 
-- [ ] Đánh giá và vẽ lại mô hình công việc #duylinh 
+- [x] Đánh giá và vẽ lại mô hình công việc #duylinh 
 > Quan trọng trong việc đánh giá lại mô hình: 
 > 	1. Tìm hiểu lại cơ cấu điều khiển cho cơ chế tilt
 > 	2. Chọn lại profile cho cánh, tạo vòng lặp
 > 	3. Phân tích động lực học 
 > 		- Thiết kế sơ bộ: nhiêu m/s ? weight ?
 ![](https://i.imgur.com/ODoevTz.png)
-- [ ] Suy nghĩ những câu hỏi cần đặt ra cho các anh khi gặp
+- [x] Suy nghĩ những câu hỏi cần đặt ra cho các anh khi gặp
+
+

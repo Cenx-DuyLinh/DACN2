@@ -27,3 +27,13 @@ manufacturer, Wingspan as "Wingspan[m]"
 where project = "drone survey"
 sort wingspan asc
 ```
+
+# Sorted by Vũ
+---
+```dataview 
+table 
+payload, Wingspan, MTOW
+where project = "drone survey"
+sort wingspan asc
+```
+
