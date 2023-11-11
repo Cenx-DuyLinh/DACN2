@@ -40,3 +40,5 @@ In the second part of the project, we will focus on issues 4 to 9. We will addre
 
 ## Team member role
 ---
+![](https://i.imgur.com/EuV9hHg.png)
+
