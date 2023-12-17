@@ -1,7 +1,29 @@
 # Problem statement
+
+## ABSTRACT
+Tilt Rotors Vertical Take-off and Landing Unmanned Aerial Vehicles (TRVTOL-UAVs) have the potential to be the next generation of UAVs due to their ability to operate like a helicopter while also being able to function like a conventi onal fixed-wing aircraft. Combined with the use of a tilting rotors mechanism can increase the efficiency of the VTOL-UAVs significantly, thus making it suitable for a variety of missions.
+Overall, this specialized project goal is to study the basic operating principles of the TRVTOL-UAV configuration, along with the report from Tran Duy Linh, we conduct multiple tests and re-evaluation of the already built Tri copter-TRVTOL-UAV received from the Aerospace engineering department. The final goal of this specialized project is to suggest improvement in the design of a more efficient TRVTOL-UAV. 
+In this report, I want to focus on evaluating the overall frame structure, the electrical system, and the flight characteristics of the old TRVTOL-UAV. Then, find out what change can be made to improve the performance of the aircraft. Finally, a newly improved frame structure of the TRVTOL-UAV configuration will be presented at the end of the report.
+(Mẫu Abstract của tt)
 ## Project introduction
 ---
-In recent years, the interest in Vertical Take-Off and Landing (VTOL) Unmanned Aerial Vehicle (UAV) has significantly increased due to advancements in technology. These UAVs offer a unique combination of vertical take-off and landing capabilities, similar to a helicopter, along with extended cruising ability comparable to fixed-wing aircraft. VTOL UAVs have the potential to revolutionize various industries, including aerial surveillance, search and rescue operations, and transportation.
+
+In recent years, interest in Vertical Take-Off and Landing (VTOL) Unmanned Aerial Vehicles (UAVs) has significantly increased due to advancements in technology. Hardware components such as motors, electronic parts, and batteries have become lighter, more compact, and higher performing. Flight controller computational units are now available in various sizes with increased computational speed and storage capacity. Furthermore, developments in material technologies have led to the creation of lighter, stronger composite materials at reduced production costs. Altogether, these advancements have created a thriving market for commercial-grade UAVs across multiple industries, including aerial surveillance, search and rescue operations, transportation, etc.
+
+(Hinh ung dung cua UAV trong cac mission khac nhau)
+
+Among popular UAV designs, there are typically three main configurations: the hovering/helicopter design, the fixed-wing design, and the hybrid design. Hybrid UAVs provide a unique combination of vertical take-off and landing capabilities, similar to a helicopter, while also offering extended cruising abilities similar to fixed-wing aircraft. However, despite having the advantages of both helicopter and fixed-wing designs, the hybrid UAV does have its own disadvantages.
+
+(Bang so sanh giua 3 loai may bay)
+
+Throughout the developmental history of VTOL-UAVs, various conceptual designs have emerged, primarily differing in how thrust vectors are applied and the transition methods between hover and cruise modes. Despite these differences, their overarching objective remains consistent: maximizing the efficiency of hybrid UAVs. In summary, these hybrid conceptual designs can be categorized into four main configurations based on the number of thrust inputs they employ.
+
+(Hinh va chu thich cho cac cau hinh may bay hybrid)
+
+In this specialized project report, our focus centers on the tri-copter configuration of hybrid UAV design. As implied by its name, this UAV setup incorporates three thrust inputs. Most tri-copter designs feature two front rotors, similar to the dual-copter design, the addition of a third rotor at the rear of the aircraft enhances stability and control. As a result, this setup allows simpler vertical takeoff and landing maneuvers compared to the dual-copter configuration. At the same time, during level flight, the tri-copter configuration generates less drag than a quad-copter configuration design. 
+The transition to level flight is usually executed by tilting the forward propellers, propelling the hybrid craft forward while maintaining vertical lift through thrust. To retain pitch equilibrium during this phase, a combination of tail thrust and elevator deflection is utilized. Notably, both the tail thrust and elevator serve as redundant systems, offering the flexibility to employ them independently or in a blended manner. More detail on the stability characteristic of the tri-copter configuration will be reviewed in Chapter 3 of this report.
+
+
 
 ## Project objective 
 ---
