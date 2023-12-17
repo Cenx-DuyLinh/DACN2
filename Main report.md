@@ -21,8 +21,7 @@ Throughout the developmental history of VTOL-UAVs, various conceptual designs ha
 (Hinh va chu thich cho cac cau hinh may bay hybrid)
 
 In this specialized project report, our focus centers on the tri-copter configuration of hybrid UAV design. As implied by its name, this UAV setup incorporates three thrust inputs. Most tri-copter designs feature two front rotors, similar to the dual-copter design, the addition of a third rotor at the rear of the aircraft enhances stability and control. As a result, this setup allows simpler vertical takeoff and landing maneuvers compared to the dual-copter configuration. At the same time, during level flight, the tri-copter configuration generates less drag than a quad-copter configuration design. 
-The transition to level flight is usually executed by tilting the forward propellers, propelling the hybrid craft forward while maintaining vertical lift through thrust. To retain pitch equilibrium during this phase, a combination of tail thrust and elevator deflection is utilized. Notably, both the tail thrust and elevator serve as redundant systems, offering the flexibility to employ them independently or in a blended manner. More detail on the stability characteristic of the tri-copter configuration will be reviewed in Chapter 3 of this report.
-
+The transition to level flight is usually executed by tilting the forward propellers, propelling the hybrid craft forward while maintaining vertical lift through thrust. To retain pitch equilibrium during this phase, a combination of tail thrust and elevator deflection is utilized. Notably, both the tail thrust and elevator serve as redundant systems, offering the flexibility to employ them independently or in a blended manner. *More detail on the stability characteristic of the tri-copter configuration will be reviewed in Chapter 3 of this report.* (Dòng cuối cùng của report bên t nên bỏ qua đi nhé)
 
 
 ## Project objective 
