@@ -23,7 +23,7 @@ sort mtow asc
 ---
 ```dataview 
 table 
-manufacturer, Wingspan as "Wingspan[m]"
+Cruise-speed, Wingspan as "Wingspan[m]"
 where project = "drone survey"
 sort wingspan asc
 ```

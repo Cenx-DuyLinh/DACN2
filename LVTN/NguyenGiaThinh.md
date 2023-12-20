@@ -31,3 +31,8 @@ type: LVTN
 >Note: Nếu có dự tính thay đổi góc tấn của cánh thì chỉ được tới tối đa ~6 để maximize cái Cl/Cd
 
 - Cl = 0.5074 (this is at 35m above sea level and 25C)
+
+- Cách chọn wing incidence:
+	  1. Chọn CL/CD theo alpha: ![](https://i.imgur.com/uUmuhYL.png)
+	  2. Tính CL lúc cruise: ![](https://i.imgur.com/4KNHYzx.png)
+	  3. Xác định dự trên biểu đồ Cl to alpha của XFLR5: ![](https://i.imgur.com/bzR4oRz.png)
